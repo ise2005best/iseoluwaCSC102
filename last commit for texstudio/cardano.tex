@@ -1,0 +1,33 @@
+\documentclass{article}
+\usepackage{siunitx}
+\usepackage{amsmath}
+\title{Cardano's Formula for Cubic Equation}
+\author{Ariyibi Joseph Iseoluwa}
+\begin{document}
+	\maketitle
+	\begin{center}
+		\textbf{ABSTRACT}
+	\end{center}
+Gerolamo Cardano was born in Pavia in 1501 as the illegitimate child of a jurist.He attended the University of Padua and become a physician in the town of Sacco, after being rejected by his home town of Milan. He became one of the most famous doctors in all of Europe, having treated the Pope. He was also an astrologerr and an avid gambler, to which he wrote the Book on Games of Chance, which was the first serious treatise on the mathematics of probability.\cite{ Ariyibi2021}
+\section{Introdction To Cardano's Formula}
+Cardano's formula for solution of cubic equations for an equation like: $x^3 + a_1x^2 + a_2x + a^3 = 0$
+the parameters Q, R, S and T can be computed thus,\\
+\raggedright
+	\begin{align}
+		\textbf{Q}= 3a_2 - \frac{a_1^2}{a} &                       \textbf{R}= \frac{9a_1a_2-27a_3-2a_1^3}{54} \\
+		\textbf{S} =\sqrt[3]{R + \sqrt{-Q^3 + R^2}} & 
+		 \textbf{T} = \sqrt{R - \sqrt{Q^3 + R^2}} \\
+	\end{align}
+To give the roots
+$x_1= S + T-\frac{1}{3}a_1$
+$x_2= \frac{-(S+T)}{2} - \frac{a_1}{3} + i\frac{\sqrt{3}(s-T)}{2}$ \\
+$x_2= \frac{-(S+T)}{2} - \frac{a_1}{3} - i\frac{\sqrt{3}(s-T)}{2}$ \\
+
+
+Note : $x^3$ must not have a co-efficient
+\subsection{Some Examples}
+\begin{itemize}
+	\item  $x^3 - 3x^2 + 4 = 0$
+	\item $2x^3 + 6x^2 + 1 = 0$
+\end{itemize}
+\end{document}

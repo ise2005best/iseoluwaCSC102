@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{booktabs} % For \toprule, \midrule and \bottomrule
+\usepackage{pgfplotstable}
+
+\begin{document}
+	\begin{table}[h!]
+		\begin{center}
+			\caption{Most Influencial artists of all time}
+			\label{table1}
+			\pgfplotstabletypeset[multicolumn names,
+			col sep=comma,
+			display columns/0/.style={
+			column name=$ID$
+		    column type={c},string type},
+	        display columns/1/.style={
+	        column name=$name$
+            column type={c},string type},
+            display columns/2/.style={
+            column name=$years$
+            column type={c},string type},
+            display columns/3/.style={
+            column name=$genres$
+            column type={c},string type},
+            display columns/4/.style={
+            column name=$nationality$
+            column type={c},string type},
+            display columns/5/.style={
+            column name=$paintings$
+            column type={c},string type},
+        every head row={\toprule},after row={\midrule},
+        every last row/.style={after row=\bottomrule}]
+        {artists.csv}
+		\end{center}
+	\end{table}
+\end{document}

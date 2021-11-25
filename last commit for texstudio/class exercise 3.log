@@ -1,0 +1,632 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  20 NOV 2021 19:56
+entering extended mode
+**"./class exercise 3.tex"
+("class exercise 3.tex"
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/base\articl
+e.cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/base\size10
+.clo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\bo
+oktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count185
+\@cmidlb=\count186
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count187
+\@lastruleclass=\count188
+\@thisrulewidth=\dimen151
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pg
+fplotstable.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplots.revision.tex")
+Package: pgfplotstable 2020/02/29 v1.17 Table typesetting and Pretty-printing (
+1.17)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pg
+fplots.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplots.revision.tex")
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gr
+aphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\ke
+yval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gr
+aphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tr
+ig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cf
+g\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-de
+f\pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/fronten
+dlayer\tikz.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basicla
+yer\pgf.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utiliti
+es\pgfrcs.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utili
+ties\pgfutil-common.tex"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen154
+\pgfutil@tempdimb=\dimen155
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utili
+ties\pgfutil-common-lists.tex"))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utili
+ties\pgfutil-latex.def"
+\pgfutil@abb=\box47
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utili
+ties\pgfrcs.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.r
+evision.tex")
+Package: pgfrcs 2020/12/01 v3.1.7a (3.1.7a)
+))
+Package: pgf 2020/12/01 v3.1.7a (3.1.7a)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basicla
+yer\pgfcore.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systeml
+ayer\pgfsys.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syste
+mlayer\pgfsys.code.tex"
+Package: pgfsys 2020/12/01 v3.1.7a (3.1.7a)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utili
+ties\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utili
+ties\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen156
+\pgf@y=\dimen157
+\pgf@xa=\dimen158
+\pgf@ya=\dimen159
+\pgf@xb=\dimen160
+\pgf@yb=\dimen161
+\pgf@xc=\dimen162
+\pgf@yc=\dimen163
+\pgf@xd=\dimen164
+\pgf@yd=\dimen165
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count189
+\c@pgf@countb=\count190
+\c@pgf@countc=\count191
+\c@pgf@countd=\count192
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count193
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syste
+mlayer\pgf.cfg"
+File: pgf.cfg 2020/12/01 v3.1.7a (3.1.7a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syste
+mlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/12/01 v3.1.7a (3.1.7a)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syste
+mlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/12/01 v3.1.7a (3.1.7a)
+)))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syste
+mlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfsyssoftpath@smallbuffer@items=\count194
+\pgfsyssoftpath@bigbuffer@items=\count195
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/syste
+mlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcol
+or.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cf
+g\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcore.code.tex"
+Package: pgfcore 2020/12/01 v3.1.7a (3.1.7a)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmath.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathcalc.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathutil.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen166
+\pgfmath@count=\count196
+\pgfmath@box=\box48
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfunctions.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfunctions.basic.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfunctions.trigonometric.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfunctions.random.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfunctions.comparison.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfunctions.base.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfunctions.round.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfunctions.misc.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count197
+))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfint.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@picminx=\dimen167
+\pgf@picmaxx=\dimen168
+\pgf@picminy=\dimen169
+\pgf@picmaxy=\dimen170
+\pgf@pathminx=\dimen171
+\pgf@pathmaxx=\dimen172
+\pgf@pathminy=\dimen173
+\pgf@pathmaxy=\dimen174
+\pgf@xx=\dimen175
+\pgf@xy=\dimen176
+\pgf@yx=\dimen177
+\pgf@yy=\dimen178
+\pgf@zx=\dimen179
+\pgf@zy=\dimen180
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@path@lastx=\dimen181
+\pgf@path@lasty=\dimen182
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@shorten@end@additional=\dimen183
+\pgf@shorten@start@additional=\dimen184
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count198
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgflinewidth=\dimen185
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@pt@x=\dimen186
+\pgf@pt@y=\dimen187
+\pgf@pt@temp=\dimen188
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfarrowsep=\dimen189
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@max=\dimen190
+\pgf@sys@shading@range@num=\count199
+\pgf@shadingcount=\count266
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfexternal@startupbox=\box52
+))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basic
+layer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modul
+es\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfnodeparttextbox=\box53
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modul
+es\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compati
+bility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@nodesepstart=\dimen191
+\pgf@nodesepend=\dimen192
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compati
+bility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/12/01 v3.1.7a (3.1.7a)
+))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utiliti
+es\pgffor.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utiliti
+es\pgfkeys.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utili
+ties\pgfkeys.code.tex"))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pg
+fmath.sty"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmath.code.tex"))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utili
+ties\pgffor.code.tex"
+Package: pgffor 2020/12/01 v3.1.7a (3.1.7a)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\
+pgfmath.code.tex")
+\pgffor@iter=\dimen193
+\pgffor@skip=\dimen194
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
+))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/front
+endlayer/tikz\tikz.code.tex"
+Package: tikz 2020/12/01 v3.1.7a (3.1.7a)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libra
+ries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@plot@mark@count=\count267
+\pgfplotmarksize=\dimen195
+)
+\tikz@lastx=\dimen196
+\tikz@lasty=\dimen197
+\tikz@lastxsaved=\dimen198
+\tikz@lastysaved=\dimen199
+\tikz@lastmovetox=\dimen256
+\tikz@lastmovetoy=\dimen257
+\tikzleveldistance=\dimen258
+\tikzsiblingdistance=\dimen259
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count268
+\tikznumberofchildren=\count269
+\tikznumberofcurrentchild=\count270
+\tikz@fig@count=\count271
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modul
+es\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfmatrixcurrentrow=\count272
+\pgfmatrixcurrentcolumn=\count273
+\pgf@matrix@numberofcolumns=\count274
+)
+\tikz@expandcount=\count275
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/front
+endlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplots.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplotscore.code.tex"
+\t@pgfplots@toka=\toks28
+\t@pgfplots@tokb=\toks29
+\t@pgfplots@tokc=\toks30
+\pgfplots@tmpa=\dimen260
+\c@pgfplots@coordindex=\count276
+\c@pgfplots@scanlineindex=\count277
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+sys\pgfplotssysgeneric.code.tex"))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+libs\pgfplotslibrary.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libra
+ries\pgflibraryfpu.code.tex"))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+util\pgfplotsutil.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+liststructure\pgfplotsliststructure.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+liststructure\pgfplotsliststructureext.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+liststructure\pgfplotsarray.code.tex"
+\c@pgfplotsarray@tmp=\count278
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+liststructure\pgfplotsmatrix.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+numtable\pgfplotstableshared.code.tex"
+\c@pgfplotstable@counta=\count279
+\t@pgfplotstable@a=\toks31
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+liststructure\pgfplotsdeque.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+util\pgfplotsbinary.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+util\pgfplotsbinary.data.code.tex"))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+util\pgfplotsutil.verb.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+libs\pgflibrarypgfplots.surfshading.code.tex"
+\c@pgfplotslibrarysurf@no=\count280
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def")))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+util\pgfplotscolormap.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+util\pgfplotscolor.code.tex"))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplotsstackedplots.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplotsplothandlers.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplotsmeshplothandler.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplotsmeshplotimage.code.tex")))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplots.scaling.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplotscoordprocessing.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplots.errorbars.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplots.markers.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplotsticks.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\
+pgfplots.paths.code.tex")
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/front
+endlayer/tikz/libraries\tikzlibrarydecorations.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modul
+es\pgfmoduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen261
+\pgfdecoratedremainingdistance=\dimen262
+\pgfdecoratedinputsegmentcompleteddistance=\dimen263
+\pgfdecoratedinputsegmentremainingdistance=\dimen264
+\pgf@decorate@distancetomove=\dimen265
+\pgf@decorate@repeatstate=\count281
+\pgfdecorationsegmentamplitude=\dimen266
+\pgfdecorationsegmentlength=\dimen267
+)
+\tikz@lib@dec@box=\box58
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/front
+endlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libra
+ries/decorations\pgflibrarydecorations.pathmorphing.code.tex"))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/front
+endlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libra
+ries/decorations\pgflibrarydecorations.pathreplacing.code.tex"))
+\pgfplots@numplots=\count282
+\pgfplots@xmin@reg=\dimen268
+\pgfplots@xmax@reg=\dimen269
+\pgfplots@ymin@reg=\dimen270
+\pgfplots@ymax@reg=\dimen271
+\pgfplots@zmin@reg=\dimen272
+\pgfplots@zmax@reg=\dimen273
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/front
+endlayer/tikz/libraries\tikzlibraryplotmarks.code.tex"
+File: tikzlibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libra
+ries\pgflibraryplotmarks.code.tex"
+File: pgflibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+numtable\pgfplotstable.code.tex"
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/
+numtable\pgfplotstable.coltype.code.tex"))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/tools\array
+.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen274
+\ar@mcellbox=\box59
+\extrarowheight=\dimen275
+\NC@list=\toks32
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box60
+))
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l
+3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count283
+\l__pdf_internal_box=\box61
+) ("class exercise 3.aux")
+\openout1 = `"class exercise 3.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/context/base/mkii
+\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen276
+\scratchbox=\box62
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen277
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks34
+)
+("C:\Users\ARIYIBI ISEOLUWA\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pk
+g\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
+your preamble.
+ on input line 5.
+
+PGFPlots: reading {artists.csv}
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 32.
+
+Overfull \hbox (311.9811pt too wide) in paragraph at lines 32--33
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 355.50577pt on input line 34.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1{C:/Users/ARIYIBI ISEOLUWA/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+("class exercise 3.aux") ) 
+Here is how much of TeX's memory you used:
+ 22068 strings out of 479697
+ 604202 string characters out of 2861869
+ 1011814 words of memory out of 3000000
+ 38846 multiletter control sequences out of 15000+200000
+ 403430 words of font info for 27 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,9n,111p,718b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/ARIYIBI ISEOLUWA/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ARIYIBI ISEOLUWA/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "class exercise 3.pdf" (1 page, 37471 bytes).
+PDF statistics:
+ 17 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
